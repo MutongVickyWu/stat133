@@ -1,0 +1,12 @@
+---
+title: "Mutong Wu_lab8test3"
+author: "Mutong Wu 26953331"
+date: "April 7, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I love stat133.And Adam is a great teacher
